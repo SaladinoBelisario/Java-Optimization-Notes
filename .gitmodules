@@ -1,0 +1,12 @@
+[submodule "Java_Performance"]
+	path = Java_Performance
+	url = https://github.com/SaladinoBelisario/Java_Performance
+[submodule "Parallel-And-Asynchronous-Java"]
+	path = Parallel-And-Asynchronous-Java
+	url = https://github.com/SaladinoBelisario/Parallel-And-Asynchronous-Java
+[submodule "GraalVM-Notes"]
+	path = GraalVM-Notes
+	url = https://github.com/SaladinoBelisario/GraalVM-Notes
+[submodule "Java_Concurrency"]
+	path = Java_Concurrency
+	url = https://github.com/SaladinoBelisario/Java_Concurrency
