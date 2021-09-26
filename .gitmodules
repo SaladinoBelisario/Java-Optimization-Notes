@@ -5,12 +5,12 @@
 [submodule "Parallel-And-Asynchronous-Java"]
 	path = Parallel-And-Asynchronous-Java
 	url = https://github.com/SaladinoBelisario/Parallel-And-Asynchronous-Java
-	branch = master
+	branch = main
 [submodule "GraalVM-Notes"]
 	path = GraalVM-Notes
 	url = https://github.com/SaladinoBelisario/GraalVM-Notes
-	branch = master
+	branch = main
 [submodule "Java_Concurrency"]
 	path = Java_Concurrency
 	url = https://github.com/SaladinoBelisario/Java_Concurrency
-	branch = master
+	branch = main
