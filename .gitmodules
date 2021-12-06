@@ -14,3 +14,7 @@
 	path = Java_Concurrency
 	url = https://github.com/SaladinoBelisario/Java_Concurrency
 	branch = main
+[submodule "Modern_Enterprise_Java"]
+	path = Modern_Enterprise_Java
+	url = https://github.com/SaladinoBelisario/Modern_Enterprise_Java
+	branch = master
