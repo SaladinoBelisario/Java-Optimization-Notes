@@ -12,5 +12,5 @@ A collection of notes on about JVM and Java optimization:
     > Notes about Java Concurrency models, strategies, etc.
 * [GraalVM](https://github.com/SaladinoBelisario/GraalVM-Notes)
     > Notes about GraalVM's high performance and polyglot capabilities
-* [Modern_Enterprise_Java](https://github.com/SaladinoBelisario/Modern_Enterprise_Java)
+* [Modern Enterprise Java](https://github.com/SaladinoBelisario/Modern_Enterprise_Java)
     > Notes about migrating Java Enterprise applications to modern environments.
